@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a5e5903-e046-4049-b3b1-2c73b817a4f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/c2Assistants.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assistantBot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studyBuddy.py" afterDir="false" />
-    </list>
+    <list default="true" id="8a5e5903-e046-4049-b3b1-2c73b817a4f6" name="Changes" comment="Initialize C2Assistant" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711325151949</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initialize C2Assistant">
+      <option name="closed" value="true" />
+      <created>1711327066574</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711327066574</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialize C2Assistant" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize C2Assistant" />
   </component>
 </project>

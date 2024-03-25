@@ -2,10 +2,12 @@ import time
 
 import openai
 import streamlit as st
+from dotenv import load_dotenv
 from openai.lib.streaming import AssistantEventHandler
 from typing_extensions import override
 
-client = openai.OpenAI(api_key='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')
+load_dotenv()
+client = openai.OpenAI()
 
 model = "gpt-4-1106-preview"  # "gpt-3.5-turbo-16k"
 
